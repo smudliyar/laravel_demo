@@ -25,7 +25,11 @@ FOLLOW BELOW STEPS AFTER EXECUTING ABOVE COMMANDS
    - http://localhost:8000/login
 9. Register user using below url
    - http://localhost:8000/register
+   
 10 After registration, login using below url
+
    - http://localhost:8000/login
+   
 11 Once loggedin success, redirected to home/dashboard page
+
 
